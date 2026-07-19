@@ -1,0 +1,16 @@
+# Lesson 2 - Quantum Circuits
+
+## Topics
+
+- Quantum Circuits
+- Quantum Gates
+- Hadamard Gate
+- Pauli Gates
+- CNOT Gate
+- Circuit Construction
+
+## Contents
+
+- Qiskit Circuits
+- Examples
+- Exercises
