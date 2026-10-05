@@ -137,7 +137,7 @@ The current implementation uses a classical exact eigensolver as a benchmark. It
 
 ## Author
 
-**Abhiram S Narayanan**
+**Anamika Mohan**
 
 MSc Physics | Exploring Quantum Computing and Quantum Optimization
 
